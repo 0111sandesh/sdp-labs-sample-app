@@ -7,6 +7,7 @@ libraries{
     }
   }
   github_enterprise
+  deploy
   sonarqube{
     enforce_quality_gate = true
   }
