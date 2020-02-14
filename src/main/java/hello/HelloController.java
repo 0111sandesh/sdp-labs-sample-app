@@ -32,7 +32,7 @@ public class HelloController {
 
         logger.fatal("This is a fatal statement");
 
-        return "Greetings from Spring Boot!"; 
+        return "Welcome to this DEMO!"; 
 
     } 
 
