@@ -16,7 +16,7 @@ libraries{
   }
   owasp_zap{
     target = "http://10.0.1.161:80"
-    vulnerability_threshold = "High"
+    vulnerability_threshold = "Informational"
   }
 
 }
