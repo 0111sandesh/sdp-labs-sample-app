@@ -8,6 +8,7 @@ libraries{
   }
   github_enterprise
   deploy
+  gradle
   sonarqube{
     enforce_quality_gate = true
   }
