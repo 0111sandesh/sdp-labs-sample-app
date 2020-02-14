@@ -15,7 +15,7 @@ libraries{
     cred = "sdp-docker-registry"
   }
   owasp_zap{
-    target = "http://0.0.0.0:80"
+    target = "http://10.0.1.161:80"
     vulnerability_threshold = "Medium"
   }
 
