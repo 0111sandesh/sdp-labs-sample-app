@@ -1,5 +1,3 @@
-static_code_analysis()
 gradle_build()
 build()
 deploy()
-penetration_test()
