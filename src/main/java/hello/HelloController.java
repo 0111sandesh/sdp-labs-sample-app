@@ -32,7 +32,7 @@ public class HelloController {
 
         logger.fatal("This is a fatal statement");
 
-        return "Welcome to this DEMO 4!"; 
+        return "Welcome to this DEMO 5!"; 
 
     } 
 
