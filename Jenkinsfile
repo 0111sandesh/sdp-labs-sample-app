@@ -1,5 +1,5 @@
 static_code_analysis()
-gradle_build()
+build_app()
 build()
 deploy()
 penetration_test()
